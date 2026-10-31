@@ -1,0 +1,2 @@
+# firstGo
+KARTU INVENTARIS RUANG
